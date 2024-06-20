@@ -1,0 +1,61 @@
+body{
+	padding: 30px;
+	background-color:black;
+	color:white;
+}
+
+#title{
+	font-size: 400%;
+	width: 60vmax;
+}
+
+.center{
+	margin: auto;
+	padding: auto;
+	text-align: center;
+}
+
+#image {
+	max-width: 80%;
+	height: 100%;
+	display: block;
+	padding: 5px;
+}
+
+.img_deg{
+	float: right;
+	width: 25%;
+	height: 80%;
+	padding: 10px;
+}
+
+.img_de{
+	background-color:dimgray;
+}
+
+@media only screen and (min-width:480px)
+{
+
+}
+
+@media only screen and (min-width:767px)
+{
+
+}
+
+@media only screen and (min-width:991px)
+{
+
+}
+
+@media only screen and (min-width:1200px)
+{
+.font{
+	padding: 0px 200px 15px 200px;
+	}
+}
+
+@media (orientation: landscape)
+{
+
+}
