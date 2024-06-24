@@ -67,7 +67,7 @@
 }
 
 .btn:hover{
-	background-color: var(--primary-color-dark)
+	background-color: var(--primary-color-dark);
 }
 
 img{
@@ -208,7 +208,7 @@ nav{
 
 .input__group span{
 	font-size:1.75rem;
-	color:var(--primary-color)
+	color:var(--primary-color);
 }
 
 .input__group label{
@@ -284,15 +284,15 @@ nav{
 }
 
 .room__card__icons span:nth-child(1){
-	color: #073d16
+	color: #073d16;
 }
 
 .room__card__icons span:nth-child(2){
-	color:#73a00a
+	color:#73a00a;
 }
 
 .room__card__icons span:nth-child(3){
-	color:#542c10
+	color:#542c10;
 }
 
 .room__card__deatils{
@@ -369,7 +369,7 @@ nav{
 
 .service__list li:nth-child(1) span{
 	color:#073d16;
-	background-color:#50a568
+	background-color:#50a568;
 }
 
 .service__list li:nth-child(2) span {
@@ -384,7 +384,7 @@ nav{
 
 .service__list li:nth-child(4) span {
 	color: #121903;
-	background-color: ##5c6c37;
+	background-color: #5c6c37;
 }
 
 .service__list li:nth-child(5) span {
